@@ -2,6 +2,8 @@
 
 ## 🎓 Scenario
 I uploaded a research paper titled **“Enhancing Customer Retention in the Telecom Industry with Machine Learning...”** into NotebookLM. My goal was to extract a high-level summary to use in a literature review.
+![Case1](https://github.com/user-attachments/assets/5a58426b-54af-4940-a875-c73a712f153f)
+
 
 ---
 
