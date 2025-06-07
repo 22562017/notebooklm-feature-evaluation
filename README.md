@@ -12,5 +12,5 @@ This repository documents four academic use cases to evaluate Google NotebookLM'
 - [NotebookLM](https://notebooklm.google/)
 
 ## 📸 Screenshots
-Any screenshots used are placed in the `images/` folder.
+Any screenshots used are placed in the [`images/`](images/) folder.
 
